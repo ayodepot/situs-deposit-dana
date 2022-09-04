@@ -1,0 +1,15 @@
+{
+  "name": "situs-deposit-dana",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Situs Judi Online Slot Deposit Dana Tanpa Potongan | Ada Bonus Harian",
+  "keywords": [
+    "sslot deposit dana",
+    "slot dana"
+  ],
+  "repository": "https://github.com/ayodepot/situs-deposit-dana",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

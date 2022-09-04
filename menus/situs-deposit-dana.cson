@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle situs-deposit-dana'
+      'command': 'situs-deposit-dana:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'situs-deposit-dana'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'situs-deposit-dana:toggle'
+        }
+      ]
+    ]
+  }
+]
